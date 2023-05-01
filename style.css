@@ -1,0 +1,39 @@
+/*Así se ponen comentarios en css*/
+body{
+    /*rgb es red green blue*/
+    background-color:black;
+    color:palevioletred;
+    font-family: 'Amatic SC', cursive;
+    font-size: x-large;
+}
+
+p {
+    color:darkmagenta
+}
+
+h1 {
+    color:peru
+}
+
+/*para agregar clase ponemos ( . ) antes de el nombre*/
+.titulo-web{
+    color:aquamarine;
+    font-size:x-large;
+}
+.freeman{
+    width:200px;
+}
+.capibara{
+    width:400px;
+}
+
+/*Imágenes*/
+img{
+    width:300px; /*ancho*/
+}
+
+
+/*fuentes*/
+
+
+
